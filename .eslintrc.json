@@ -1,0 +1,11 @@
+{
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+} //eslint 문법 밒 코드 스타일을 검사해주는 도구 
+
+
+//문법적인 오류를 사전에 발견할 수 있음
+//협업에서 통일된 코드 스타일을 유지할 수 있도록 도와줌
+//CRA에는 자체 내장되어 있음(package.json의 eslintConfig)
